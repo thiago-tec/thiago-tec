@@ -4,6 +4,5 @@ My name is Thiago and I am focused on being a FullStack Java developer, but of c
 :speech_balloon: :technologist:
  <div>
   <a href="https://github.com/thiago-tec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-tec&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-tec&layout=compact&langs_count=7&theme=dark"/>
 </div>
